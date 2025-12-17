@@ -47,7 +47,11 @@
 
 ![Product Screenshot](https://via.placeholder.com/800x400/1e1e1e/ffffff?text=Insert+Your+App+Screenshot+Here)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">
+  <a href="#readme-top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-007fd4?style=flat-square" alt="Back to Top">
+  </a>
+</p>
 
 ---
 
@@ -63,7 +67,11 @@ This project leverages the modern React ecosystem to deliver 60fps performance.
 | **State** | Context API + LocalStorage Persistence |
 | **Utils** | `emmet-monaco-es` `react-hot-toast` |
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">
+  <a href="#readme-top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-007fd4?style=flat-square" alt="Back to Top">
+  </a>
+</p>
 
 ---
 
@@ -85,7 +93,11 @@ This project leverages the modern React ecosystem to deliver 60fps performance.
     * **Mobile:** Native Tabbed Interface (Touch optimized).
     * **Draggable Layout:** Fully resizable workspace.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">
+  <a href="#readme-top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-007fd4?style=flat-square" alt="Back to Top">
+  </a>
+</p>
 
 ---
 
@@ -112,8 +124,11 @@ Follow these steps to set up the project locally.
     ```sh
     npm run dev
     ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">
+  <a href="#readme-top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-007fd4?style=flat-square" alt="Back to Top">
+  </a>
+</p>
 
 ---
 
@@ -136,7 +151,11 @@ The interface is designed to be intuitive for developers.
 ### 5. Focus Mode
 > **Full Screen:** Click the "Expand" icon (top-right of the preview window) to view your output in full-screen mode, hiding the code completely.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">
+  <a href="#readme-top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-007fd4?style=flat-square" alt="Back to Top">
+  </a>
+</p>
 
 ---
 
@@ -159,7 +178,11 @@ src/
 └── App.jsx                  # Main Layout & Header Composition
  ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">
+  <a href="#readme-top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-007fd4?style=flat-square" alt="Back to Top">
+  </a>
+</p>
  
 
 ## 🤝 Contributing
@@ -172,7 +195,11 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">
+  <a href="#readme-top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-007fd4?style=flat-square" alt="Back to Top">
+  </a>
+</p>
 
 ---
 
@@ -180,7 +207,11 @@ Contributions are what make the open source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">
+  <a href="#readme-top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-007fd4?style=flat-square" alt="Back to Top">
+  </a>
+</p>
 
 ---
 
@@ -195,5 +226,9 @@ Project Link: [https://github.com/YOUR_USERNAME/mastercode-ide](https://github.c
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">
+  <a href="#readme-top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-007fd4?style=flat-square" alt="Back to Top">
+  </a>
+</p>
 
