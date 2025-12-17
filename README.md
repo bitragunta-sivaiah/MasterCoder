@@ -2,7 +2,7 @@
 
 <div align="center">
   <br />
-  <img src="https://via.placeholder.com/100/007fd4/ffffff?text=IDE" alt="Logo" width="80" height="80">
+  <img src="https://ik.imagekit.io/zxxzgk3iq/Gemini_Generated_Image_45fu1p45fu1p45fu.png" alt="Logo" width="480" height="480">
   
   <h1 align="center">MasterCode IDE</h1>
 
@@ -45,7 +45,7 @@
 
 **MasterCode IDE** is not just a text area—it's a comprehensive **Integrated Development Environment** running entirely in the browser. Designed to teach advanced React patterns, it features a custom-built splitting engine, sandboxed execution, and an architecture that mirrors professional tools like CodePen or StackBlitz.
 
-![Product Screenshot](https://via.placeholder.com/800x400/1e1e1e/ffffff?text=Insert+Your+App+Screenshot+Here)
+![Product Screenshot](https://ik.imagekit.io/zxxzgk3iq/Screenshot%202025-12-17%20at%204.38.55%E2%80%AFPM.png)
 
 <p align="right">
   <a href="#readme-top">
